@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/138332690?s=400&u=e4104313e8a6ca9283c792628d0d351dcae207d2&v=4" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/138332690?s=400&u=e4104313e8a6ca9283c792628d0d351dcae207d2&v=4" align="center" style="width: 40%" />
 </div>  
   
 
@@ -92,16 +92,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rejaul921&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rejaul921&&style=flat-square" align="center" />
